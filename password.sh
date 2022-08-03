@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # i will try to write password generator 
-#It will be Simple PAssword Generator
+#It will be Simple PAssword Generator in first try
  
  echo "This is a simple password generator"
  echo " Please enter the length of the password ; "
