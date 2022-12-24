@@ -9,3 +9,6 @@ function exer(){
 	fi
 }
 exer
+
+
+# if opened and fi will close if
